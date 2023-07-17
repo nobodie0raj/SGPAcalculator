@@ -6,7 +6,7 @@
   <b>A Simple and Convenient Tool to Calculate SGPA</b>
   <br>
   <br>
-  <a href="https://your-username.github.io/ghrce-sgpa-calculator">View Demo</a>
+  <a href="https://nonodie0raj.github.io/ghrce-sgpa-calculator">View Demo</a>
   ·
   <a href="#usage">Usage</a>
   ·
@@ -40,7 +40,7 @@ The GHRCE SGPA Calculator is a user-friendly web-based tool that allows GHRCE st
 
 ## Deployment
 
-The GHRCE SGPA Calculator is deployed using GitHub Pages. You can access the live demo by clicking [here](https://your-username.github.io/ghrce-sgpa-calculator).
+The GHRCE SGPA Calculator is deployed using GitHub Pages. You can access the live demo by clicking [here](https://nobodie0raj.github.io/ghrce-sgpa-calculator).
 
 <!-- Development Setup -->
 ## Development
