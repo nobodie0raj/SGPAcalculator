@@ -49,7 +49,7 @@ The project is developed using HTML, CSS, and JavaScript.
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ghrce-sgpa-calculator.git`
+1. Clone the repository: `git clone https://github.com/nobodie0raj/ghrce-sgpa-calculator.git`
 2. Open the project in your preferred code editor.
 3. Customize the calculator according to your requirements.
 4. Open `index.html` in a web browser to view the calculator.
@@ -58,8 +58,6 @@ To set up the project locally, follow these steps:
 
 Contributions to the GHRCE SGPA Calculator are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue in the project repository.
 
-
-This project is licensed under the [MIT License](LICENSE).
 
 <!-- Disclaimer -->
 ## Disclaimer
